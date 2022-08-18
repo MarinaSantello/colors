@@ -1,0 +1,12 @@
+:root {
+    --bg-color: #ffffff;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
